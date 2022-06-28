@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+}
+.azul{
+    background-color: blue;
+     max-width: 50%;
+    height: 20%;
+}
+.verde{
+    background-color: green;
+    
+}
+.morado{
+    background-color: violet;
+   
+}
